@@ -2,7 +2,7 @@
 
 > A minimal personal website showcasing who I am, what I build, and what I'm learning as a developer.
 
-🌐 **Live Website:** *Add your deployed website link here*
+🌐 **Live Website:** https://personal-website-ochre-two.vercel.app/
 
 ---
 
@@ -48,17 +48,7 @@ The website uses:
 
 ---
 
-## 📂 Project Structure
 
-```text
-Personal-Website/
-│
-├── index.html
-├── styles.css
-└── README.md
-```
-
----
 
 ## 💻 Run Locally
 
@@ -138,28 +128,14 @@ Some things I would like to add or improve:
 
 ---
 
-## 📸 Preview
-
-*Add a screenshot of your website here.*
-
-For example:
-
-```markdown
-![Website Preview](assets/preview.png)
-```
-
----
 
 ## 📚 What I'm Learning
 
 Currently exploring and improving my skills in:
 
-* HTML
-* CSS
-* JavaScript
 * Python
 * MySQL
-* Web Development
+* Full Stack Web Development
 * Building real-world projects
 
 ---
