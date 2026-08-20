@@ -2,8 +2,7 @@
 
 > A minimal personal website showcasing who I am, what I build, and what I'm learning throughout my developer journey!!!
 
-**Website's live link:**  https://personal-website-ochre-two.vercel.app/
-
+**Website's live link:**  https://personal-website-wheat-nu.vercel.app
 ---
 # About
 This is my personal website showcasing projects I have build so far and small corner where I can introduce myself, showcase my projects and share my developer journey.
