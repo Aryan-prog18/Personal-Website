@@ -1,58 +1,51 @@
-# Aryan — Personal Website
+# Personal Website
 
-> A minimal personal website showcasing who I am, what I build, and what I'm learning as a developer.
+> A minimal personal website showcasing who I am, what I build, and what I'm learning throughout my developer journey!!!
 
-🌐 **Live Website:** https://personal-website-ochre-two.vercel.app/
+**Website's live link:**  https://personal-website-ochre-two.vercel.app/
+
+---
+# About
+This is my personal website showcasing projects I have build so far and small corner where I can introduce myself, showcase my projects and share my developer journey.
+
+I'm Aryan, a student and aspiring developer from India who enjoys building things, experimenting new technologies, and turning idea into working projects.
+
+I have tried to make this website very minimal and easy to navigate it has clean typography, minimal design.
+
+# Features 
+* Personal Introduction
+* About section 
+* Projects showcase with github links 
+* Fun fact and personal interests
+* Responsive Layout 
+* Simple navigation
+* Minimal, typography focused design 
+* Custom layout with CSS 
+* Google fonts integration
 
 ---
 
-## ✨ About
-
-This is my personal website and a small corner of the internet where I can introduce myself, showcase my projects, and share a few things about my journey as a developer.
-
-I'm Aryan, a student and aspiring developer from India who enjoys building things, experimenting with new technologies, and turning ideas into working projects.
-
-The website is intentionally simple and focused on clean typography, minimal design, and easy navigation.
-
----
-
-## 🚀 Features
-
-* 👋 Personal introduction
-* 🧑‍💻 About section
-* 💻 Project showcase with GitHub links
-* 🎮 Fun facts and personal interests
-* 📱 Responsive layout
-* 🧭 Simple navigation
-* ✨ Minimal, typography-focused design
-* 🎨 Custom styling with CSS
-* 🔤 Google Fonts integration
-
----
-
-## 🛠️ Built With
-
-| Technology       | Purpose            |
-| ---------------- | ------------------ |
-| **HTML5**        | Website structure  |
-| **CSS3**         | Styling and layout |
-| **Google Fonts** | Typography         |
+## Built With 
+|Technology        | Purpose            |
+|------------------|--------------------|
+|**HTML5**         | Website Structure  |
+|**CSS3**          | Styling and Layout |
+|**Google Fonts**  | Typography         |
 
 ### Fonts
 
-The website uses:
-
-* **Fraunces** — headings
-* **Work Sans** — body text
-* **JetBrains Mono** — technical/details text
+Fonts used in this website are:
+* **Fraunces** — For headings
+* **Work Sans** — For body text
+* **JetBrains Mono** — For technical/details text
 
 ---
 
 
+## How to run it locally
 
-## 💻 Run Locally
-
-You don't need any frameworks or dependencies to run this project.
+Well you don't need any framework or dependencies to run this project.
+Also I've mention a live link of the website you can also access the website from there.
 
 ### 1. Clone the repository
 
@@ -60,98 +53,38 @@ You don't need any frameworks or dependencies to run this project.
 git clone https://github.com/Aryan-prog18/Personal-Website.git
 ```
 
-### 2. Open the project
+### 2. Open the project through terminal or in vscode
 
 ```bash
 cd Personal-Website
 ```
 
 ### 3. Launch the website
-
-Simply open:
-
 ```text
 index.html
 ```
+Open the HTML file in your browser.
 
-in your browser.
-
-You can also use VS Code's **Live Server** extension for a better development experience.
-
----
-
-## 📌 Featured Projects
-
-### Student Management System
-
-A modular Student Management System built with **Python and MySQL** for managing student records, attendance, academic performance, and fee payments through an interactive command-line interface.
-
-🔗 [View Repository](https://github.com/Aryan-prog18/student-management-system)
-
-### DevMind
-
-DevMind is a developer-focused project that helps users understand unfamiliar codebases. It allows developers to analyze a public GitHub repository and ask questions about its codebase using natural language.
-
-🔗 [View Repository](https://github.com/Aryan-prog18/DevMind)
-
-### Python Learning Journey
-
-A collection of programs, exercises, and mini-projects created while learning and practicing Python.
-
-🔗 [View Repository](https://github.com/Aryan-prog18/python--practice)
+You can also use Vs code's **Live Server** extension to open it directly in your vs code for a better development experience.
 
 ---
 
-## 🎯 Purpose
+## Purpose 
 
-This website is more than just a portfolio.
-
-It's also a way for me to document my progress as I learn software development and continue building projects.
-
-As I learn new technologies, I plan to keep improving both the website and the projects showcased on it.
+This website is basically my journal or a portfolio.
+It's also a way for me to document my progress and showcase it to the peoples so that they can easily access what I am building, what I am making, things on which I am improving and so on.
+As I learn new technologies, I will surely improve both the website and my projects on it.
 
 ---
 
-## 🔮 Future Improvements
-
-Some things I would like to add or improve:
-
-* [ ] Add a working contact section
-* [ ] Add more projects
-* [ ] Improve accessibility
-* [ ] Add more responsive design refinements
-* [ ] Add JavaScript interactions
-* [ ] Add project screenshots
-* [ ] Deploy the website
-* [ ] Add a custom domain
-* [ ] Continue improving the design
-
----
-
-
-## 📚 What I'm Learning
-
-Currently exploring and improving my skills in:
-
-* Python
-* MySQL
-* Full Stack Web Development
-* Building real-world projects
-
----
-
-## 👨‍💻 Author
+## Author
 
 **Aryan**
+Student - Developer - Builder
 
-Student • Developer • Builder
+## Support 
+If you like the project, consider giving the repository a star on GitHub. 
 
-GitHub: [@Aryan-prog18](https://github.com/Aryan-prog18)
-
----
-
-## ⭐ Support
-
-If you like the project, consider giving the repository a ⭐ on GitHub.
+And alo you can suggest me changes and improvements which I can do, I would love ot get feedbacks from you.
 
 Thanks for visiting!
